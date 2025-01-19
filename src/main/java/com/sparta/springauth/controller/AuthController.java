@@ -1,4 +1,4 @@
-package com.sparta.springauth;
+package com.sparta.springauth.controller;
 
 import com.sparta.springauth.entity.UserRoleEnum;
 import com.sparta.springauth.jwt.JwtUtil;
